@@ -1,0 +1,10 @@
+jupyter
+numpy
+matplotlib
+scipy
+scikit-learn
+scikit-image
+tensorflow
+torch
+torchvision
+comet-ml
